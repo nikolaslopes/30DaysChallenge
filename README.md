@@ -1,6 +1,6 @@
 # 30 Days Extreme HTML &amp; CSS CHALLENGE 🤯
 
-[Challeng link](https://dev.to/somanathgoudar/30dayschallenge-30-days-extreme-html-css-challenge-50k1)🎈
+[Challenge link](https://dev.to/somanathgoudar/30dayschallenge-30-days-extreme-html-css-challenge-50k1)🎈
 
 <h3 align="center">Challenge 1 ✔️</h3>
 
