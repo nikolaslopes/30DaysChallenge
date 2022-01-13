@@ -2,8 +2,9 @@
 
 [Challeng link](https://dev.to/somanathgoudar/30dayschallenge-30-days-extreme-html-css-challenge-50k1)🎈
 
-<h3>Challenge 1</h3>
+<h3 align="center">Challenge 1 ✔️</h3>
 
+<p align="center"> <img src="https://github.com/nikolaslopes/30DaysChallenge/blob/main/Challenge-1/assets/glowing_button.gif" alt="heroes" height="250"> </p>
 
 </br>
 
