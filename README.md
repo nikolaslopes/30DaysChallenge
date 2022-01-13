@@ -10,7 +10,7 @@
 ### Author 👾
 
 - GitHub: [nikolaslopes](https://github.com/nikolaslopes) :octocat:
-- LinkedIn: [nikolas-lopes](https://www.linkedin.com/in/nikolas-lopes-b06524209/) <img src="gitHub-imgs/linkedin-icon.svg" alt="express" align="center" height="20">
+- LinkedIn: [nikolas-lopes](https://www.linkedin.com/in/nikolas-lopes-b06524209/) <img src="github-default-assets/linkedin-icon.svg" alt="linkedin" align="center" height="20">
 
 <br>
   
