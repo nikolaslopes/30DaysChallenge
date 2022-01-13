@@ -7,7 +7,7 @@
 
 </br>
 
-### Author <img src="gitHub-imgs/tic-computer-icon.svg" alt="docker" align="center" height="30">
+### Author <img src="github-default-assets/tic-computer-icon.svg" alt="docker" align="center" height="30">
 
 - GitHub: [nikolaslopes](https://github.com/nikolaslopes) :octocat:
 - LinkedIn: [nikolas-lopes](https://www.linkedin.com/in/nikolas-lopes-b06524209/) <img src="github-default-assets/linkedin-icon.svg" alt="linkedin" align="center" height="20">
