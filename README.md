@@ -8,6 +8,10 @@
 
 </br>
 
+<h3 align="center">Challenge 2</h3>
+
+</br>
+
 ### Author <img src="github-default-assets/tic-computer-icon.svg" alt="docker" align="center" height="30">
 
 - GitHub: [nikolaslopes](https://github.com/nikolaslopes) :octocat:
